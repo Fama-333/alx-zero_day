@@ -1,0 +1,8 @@
+*~
+
+Steps//after making changes to local directories or files
+>>save changes to the file
+>>add the file // (command = add . ) or (command = add filename)
+>> then you commit // comand = git commit -m "message to identify activity"
+>>finally you push // command = git push
+
